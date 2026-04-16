@@ -51,7 +51,7 @@ func main() {
 	healthHandler := handlers.NewHealthHandler(db)
 
 	app := fiber.New(fiber.Config{
-		AppName: "BookStore API",
+		AppName: "BookStore APIv1",
 	})
 
 	app.Use(recover.New())
