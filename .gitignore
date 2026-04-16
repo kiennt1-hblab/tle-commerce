@@ -1,0 +1,4 @@
+data/
+bookstore-server
+*.db
+.env

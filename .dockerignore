@@ -1,0 +1,10 @@
+data/
+bookstore-server
+*.db
+.env
+.git
+.gitignore
+README.md
+PROJECT_OVERVIEW.md
+SETUP_GUIDE.md
+test_api.sh
